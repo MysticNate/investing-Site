@@ -1,0 +1,10 @@
+@media (width >= 700px) {
+    body {
+        grid-template-areas:
+            'header header header header'
+            'hero hero hero hero'
+            'mainpic mainpic mainpic mainpic'
+            'main main aside aside'
+            'footer footer footer footer';
+    }
+}
